@@ -20,5 +20,5 @@ Link model: https://drive.google.com/file/d/1_k8YbTI17NY2eaxalRqMI6sjgoXqGwKx/vi
 - **Loss Function**: Categorical Crossentropy.
 
 
-##License
+License
 Proyek ini dibuat untuk keperluan tugas akademik dan tidak untuk penggunaan komersial. Semua dataset yang digunakan mengikuti lisensi dari sumber masing-masing.
